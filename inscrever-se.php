@@ -477,6 +477,7 @@ if (isset($_GET)) {
 <br>
 <hr>
  <br>
+ 
     <!-- horizontal -->
 <ins class="adsbygoogle"
      style="display:block"
